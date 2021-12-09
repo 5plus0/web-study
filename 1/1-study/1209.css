@@ -1,0 +1,30 @@
+.b1{
+    background-color: #2a2c31;
+}
+.b2{
+    background-color:#323439 ;
+}
+.da{
+    width: 1020px;
+    height: 520px;
+}
+.zuo{
+    float:left;
+    width: 500px;
+    height: 500px;
+    border-radius:20px;
+    background-color:#323439 ;
+}
+.you{
+    float: right;
+    width: 500px;
+    height: 500px;
+    border-radius:20px;
+    background-color: #323439;
+}
+.xia{
+    width: 1020px;
+    height: 100px;
+    border-radius:20px;
+    background-color:#323439 ;
+}
